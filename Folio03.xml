@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<folio version="2.0.0" lastUpdated="2012-06-29T01:10:58Z" date="2012-06-29T08:10:53Z" orientation="always" bindingDirection="left" id="City Guide" targetViewer="20.0.0">
+  <metadata>
+    <description>City guide by wang</description>
+    <magazineTitle>City Guide Magazine</magazineTitle>
+    <folioNumber>000001</folioNumber>
+  </metadata>
+  <targetDimensions>
+    <targetDimension wideDimension="1024" narrowDimension="768"/>
+  </targetDimensions>
+  <contentStacks>
+    <contentStack id="WIFI AD 01" subfolio="WIFI AD 01.folio"/>
+    <contentStack id="Cover" subfolio="Cover.folio"/>
+    <contentStack id="Enjoy_Article" subfolio="Enjoy_Article.folio"/>
+    <contentStack id="OverlayDemo_Article" subfolio="OverlayDemo_Article.folio"/>
+  </contentStacks>
+</folio>
